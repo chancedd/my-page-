@@ -1,0 +1,26 @@
+.sidebar1 {
+    float: left;
+    width: 20%;
+    
+}
+.sedebar2{ 
+	float: right ;
+	width: 75%;
+	text-align: center;
+	font-size: 20px;
+	margin: auto;
+
+}
+#nombre{
+	text-align: center;
+	font-size: 36px;
+}
+#pr{
+	float:left;
+}
+#la{
+	text-align: center;
+}
+#re{
+	text-align: center;
+}
